@@ -1,0 +1,37 @@
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de configuración locales
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Archivos temporales y caché
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Archivos del sistema operativo y editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Archivos generados
+*.pem
+*.key
+*.sig
