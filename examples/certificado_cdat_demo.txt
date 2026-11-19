@@ -1,0 +1,46 @@
+================================================================================
+          COOPERATIVA DE LOS TRABAJADORES DEL ISS - COOPTRAISS
+             PROTOTIPO ACADÉMICO - PROCESO DE AHORRO Y CRÉDITO
+================================================================================
+
+********************************************************************************
+  AVISO IMPORTANTE:
+  DOCUMENTO FICTICIO PARA PRUEBAS ACADÉMICAS.
+  SIN VALIDEZ FINANCIERA NI COMERCIAL. NO CONSTITUYE TÍTULO VALOR NI CANAL OFICIAL.
+********************************************************************************
+
+CERTIFICADO DE DEPÓSITO DE AHORRO A TÉRMINO (CDAT) - DEMOSTRATIVO
+NÚMERO DE CERTIFICADO : CDAT-DEMO-2026-0001
+FECHA DE EMISIÓN      : 2026-11-19
+FECHA DE VENCIMIENTO  : 2027-05-19
+PLAZO                 : 180 DÍAS
+
+DATOS DEL ASOCIADO (FICTICIOS)
+--------------------------------------------------------------------------------
+Nombre del Titular    : ASOCIADO DE PRUEBA ACADÉMICA
+Identificación        : CC 000.000.000 (DEMOSTRACIÓN)
+Número de Asociado    : ASOC-DEMO-9999
+Dependencia / Seccional: UNIVERSIDAD DEL VALLE - PROYECTO CIBERSEGURIDAD
+
+DETALLES FINANCIEROS (FICTICIOS)
+--------------------------------------------------------------------------------
+Monto Depositado      : $ 5.000.000 COP (CINCO MILLONES DE PESOS M/CTE)
+Tasa Nominal Anual    : 10.50 % E.A.
+Modalidad de Pago     : Vencimiento de plazo
+Intereses Estimados   : $ 256.400 COP
+Retención en la Fuente: $ 0 COP (Simulación)
+Total Estimado al Vcto: $ 5.256.400 COP
+
+CONDICIONES DE SEGURIDAD Y CONTROL DOCUMENTAL
+--------------------------------------------------------------------------------
+Este documento se emite con fines de verificación criptográfica de integridad
+en el marco del proyecto de auditoría de seguridad de la información del proceso
+de ahorro de COOPTRAISS en la Universidad del Valle.
+
+Cualquier alteración en los montos, fechas, nombres o identificaciones de este
+documento anula su firma digital correspondiente verificada mediante RSA-PSS y SHA-256.
+
+Firma Autorizada de Control (Demostración):
+Responsable Académico de Auditoría
+Auditoría de Seguridad de la Información - Universidad del Valle
+================================================================================

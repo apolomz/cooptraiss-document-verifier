@@ -29,5 +29,5 @@ def verify_signature(
 
         return True
 
-    except InvalidSignature:
+    except (InvalidSignature, ValueError, TypeError):
         return False
